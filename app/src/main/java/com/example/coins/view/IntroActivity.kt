@@ -10,6 +10,6 @@ class IntroActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         installSplashScreen()
 
-        setContentView(R.layout.activity_splash)
+        setContentView(R.layout.activity_intro)
     }
 }
